@@ -1,8 +1,8 @@
 # Olá !! 🙂
 
-Me Chamo **Daniel Da Silva Monteiro** Tenho **24 Anos**, Vim de **Roraima** em busca para o melhor na minha carreira, e atualmente estou em **São Paulo**. Sou novo na Área de Tecnologia e busco por oportunidades. Atualmente buscando uma oportunidade de Estágio na área de Tecnologia.🎯🔎
+Me Chamo **Daniel Da Silva Monteiro** Tenho **24 Anos**, Vim de **Roraima** em busca para o melhor na minha carreira, e atualmente estou em **São Paulo**.🎯🔎
 
-- Atualmente estou estagiando no Banco Itau🧡.
+- Atualmente estou no cargo de Analista Engenharia TI JR no Banco Itau🧡.
 - ⏰Trabalhei na Area Analista De TI jr, na empresa PUBLIC Superatacados,fiquei a 2 anos nessa empresa, e foi a primeira empresa assim que cheguei em São Paulo.
 - 🔎 Atualmente Estou Aprendendo na  Área de TI, o curso Analise Desenvolvimento de Sistema, Faculdade **UNINOVE**, e tambem ganhei uma Bolsa Santander tecnologia, Santander Bootcamp 2021 e da Digital Innovation One Inc.
 
